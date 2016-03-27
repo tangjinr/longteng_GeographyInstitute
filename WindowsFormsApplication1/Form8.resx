@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>用户使用说明
+一、数据管理
+数据管理模块包括“表格处理”功能
+1）. 点击“读取”按钮，通过路径选择需要读取的表格数据（类型为.xls,.xlsx,.csv）。
+2）. 点击“保存”按钮，表格数据保存到原路径。
+3）. 点击“另存为”按钮，表格数据保存到指定路径（可更改保存类型为.xls,.xlsx）。
+二、成本收益
+示例数据：手动输入项（表格列出）-9.17.xls
+成本收益模块包括“主表处理”、“附表处理”、“结果显示”三部分功能。
+2.1主表处理
+点击“读取主表”按钮，选择需要读取的主表数据。
+2.2附表处理
+点击“读取主表”按钮，选择需要读取的附表数据。
+2.3结果显示
+点击“计算”按钮，根据“读取主表”部分和“读取主表”部分选择的表格计算成本收益，并显示。
+三、影响因子
+示例数据：nonghu2.csv
+影响因子模块包括“数据处理”、“方程一选取”、“方程二选取”三部分功能。
+3.1数据处理
+1）. 点击“读取”按钮选择表格数据。
+2）.进行方程—选取
+2）. 点击“计算并保存”可根据“方程一选取”、“方程二选取”部分选择的参数计算影响因子，选取指定路径，重命名文件名称保存成.txt格式。弹出“计算并保存成功”窗口即计算结束，结果在左下角窗体同时显示。
+3.2方程一选取
+1）.点击“选取Y1”,根据方程一从读取的表格中选取Y1列,只能选取一个列。
+2）.点击“选取X1”,根据方程一从读取的表格中选取X1列，按住Ctrl可以选取多列。
+3）.点击“读取X1”,读取已选中的X1参数，并显示在相应的文本框内。
+3.3方程二选取
+1）.点击“选取Y2”,根据方程一从读取的表格中选取Y2列,只能选取一个列。
+2）.点击“选取X2”,根据方程一从读取的表格中选取X2列，按住Ctrl可以选取多列。
+3）.点击“读取X2”,读取已选中的X2参数，并显示在相应的文本框内。
+3.4错误信息提示：
+“参数选择无效，保存失败：需重新选择参数，注意Y只能选择一列，X可选择多列。并且选择时，应鼠标左击该列的首行。
+四、技术效率
+示例数据：wheat.csv
+技术效率包括“表格处理”和“参数选取”两部分。
+4.1 表格读取
+1）. 点击“读取”按钮选择表格数据（格式是csv格式）。
+2）. 进行参数选取。
+3）. 点击“计算”可根据“参数选取”部分选择的参数计算技术效率，计算结果在左侧窗体显示，源文件自动更新。
+4.2 参数选取
+1）.点击“选取yn参数”，选取方程的yn参数，按住Ctrl可以选取多列。
+2）. 点击“选取xn参数”，选取方程的xn参数，按住Ctrl可以选取多列。
+3）. 点击“选取zn参数”，选取方程的zn参数，按住Ctrl可以选取多列。
+五、综合决策
+示例数据：x.xlsx
+综合决策包括“数据读取”和“表格成图”两部分。
+5.1 数据读取
+点击“读取”按钮选择表格数据
+5.2表格成图
+1）.选中 “视图数据可修改”按钮，可实现对“数据读取”部分中已显示表格的修改，修改不改变原表格文件内容。
+2）.选中 “3D效果”按钮，可实现简单的3D成图效果。
+3）.“选择成图类型”下拉条，可实现“柱状图”、“饼状图”、“折线图”。
+4）.在“标题”对应的文本框中填写表格成图的标题。
+5）.在“图例名称”对应的文本框中填写表格成图的图例名称。
+6）.在“横坐标x名称”对应的文本框中表格成图的横坐标x的名称。
+7）.在“纵坐标y名称”对应的文本框中表格成图的纵坐标y的名称。
+8）.在表格中选择两列，选取的第一列为X，第二列为Y。
+9）.点击“成图”，可对“数据读取”部分中的表格和“表格成图”部分设置的参数进行成图。
+10）.右键图片，可将图片储存到任意路径。
+
+</value>
+  </data>
+</root>
