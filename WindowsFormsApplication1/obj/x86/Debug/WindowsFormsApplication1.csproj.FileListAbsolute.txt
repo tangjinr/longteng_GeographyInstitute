@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
@@ -217,3 +218,224 @@ C:\Users\89591\Desktop\C#\第4版(2)\WindowsFormsApplication1\obj\x86\Debug\Wind
 C:\Users\89591\Desktop\C#\第4版(2)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form总.resources
 C:\Users\89591\Desktop\C#\第4版(2)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\89591\Desktop\C#\第4版(2)\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+=======
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\伟\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\伟\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+H:\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\第一版\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\总程序\第一版\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hello\Desktop\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\王曾珍\STS\第一版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\王曾珍\STS\第二版，改过界面\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\王曾珍\STS\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnControls.dll
+E:\王曾珍\STS\第三版，性能全\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnTools.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnControls.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnTools.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\89591\Desktop\C#\第三版，性能全\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnControls.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnTools.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form总.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+E:\王曾珍\STS\第4版\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnControls.dll
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnTools.dll
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form总.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\89591\Desktop\第4版（1）\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.RServerManager.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnControls.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORCLNTLib.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnectorCommonLib.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\Interop.StatConnTools.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\bin\Debug\Interop.STATCONNECTORSRVLib.dll
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form总.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\89591\Desktop\C#\第4版（1）\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+>>>>>>> 167f7a405e7de9995d073c43dd99a9fa99a63730
